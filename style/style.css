@@ -1,0 +1,18 @@
+#image{
+    margin-top: 12px;
+}
+#image img{
+    max-width: 120px !important;
+    height: 100px !important;
+}
+.card-panel{
+    margin: 20px 0px !important;
+    border-radius: 10px !important;
+    padding: 30px 20px !important;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.card-panel:hover{
+    color: white !important;
+    transition: 0.2s;
+}
